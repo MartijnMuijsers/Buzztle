@@ -9,8 +9,6 @@ import com.memetix.mst.detect.Detect;
 import com.memetix.mst.language.Language;
 import com.memetix.mst.translate.Translate;
 
-
-
 public class Translation{
   public static void main(String[] args) throws Exception {
     //Replace client_id and client_secret with your own.  
